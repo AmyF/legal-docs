@@ -72,4 +72,4 @@ I may update this Privacy Policy from time to time. I will notify you of any cha
 
 If you have any questions about this Privacy Policy, please contact me at:
 
-**support@unko.fun**
+[**support@unko.fun**](mailto:support@unko.fun)

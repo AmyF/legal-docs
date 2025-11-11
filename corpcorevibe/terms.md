@@ -62,4 +62,4 @@ I reserve the right to modify or replace these Terms at any time. I will provide
 
 If you have any questions about these Terms, please contact me at:
 
-**support@unko.fun**
+[**support@unko.fun**](mailto:support@unko.fun)
